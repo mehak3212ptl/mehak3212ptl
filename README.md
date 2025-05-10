@@ -10,16 +10,16 @@ I'm a passionate developer and lifelong learner who loves building meaningful so
 - Personal projects and open-source contributions
 
 ### 🌱 I’m currently learning:
-- React.js & Next.js
-- Backend development with Node.js & Express
-- Database design using MongoDB & PostgreSQL
+- Laravel & Python(Django)
+- Backend development with Mysql & Dbsqlite
+- Database design using PostgreSQL
 
 ### 💻 Tech Stack:
-- **Languages:** JavaScript, Python, C++
+- **Languages:** JavaScript, Python, C++,Laravel
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Backend:** Djnago 
+- **Database:** , MySQL
+- **Tools:** Git, GitHub, VS Code, Postman,Jira 
 
 ### 🤝 I’m looking to collaborate on:
 - Beginner-friendly open source projects
